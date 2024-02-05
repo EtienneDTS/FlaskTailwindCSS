@@ -1,2 +1,0 @@
-[console_scripts]
-flask-tailwindcss = flask_tailwindcss.main:start

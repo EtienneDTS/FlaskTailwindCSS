@@ -1,0 +1,9 @@
+README.md
+setup.py
+flask_tailwindcss/__init__.py
+flask_tailwindcss/main.py
+flask_tailwindcss.egg-info/PKG-INFO
+flask_tailwindcss.egg-info/SOURCES.txt
+flask_tailwindcss.egg-info/dependency_links.txt
+flask_tailwindcss.egg-info/entry_points.txt
+flask_tailwindcss.egg-info/top_level.txt

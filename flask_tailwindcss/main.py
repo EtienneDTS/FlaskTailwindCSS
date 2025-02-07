@@ -53,7 +53,7 @@ def start():
         f.write(json_init)
         
     # Install Tailwind CSS using npm
-    subprocess.run(["npm", "install", "tailwindcss"])
+    subprocess.run(["npm", "install", "tailwindcss"],shell=True)
 
     # Write the content to tailwind.config.js
     with open(tailwind_config_dir, "w") as f:
